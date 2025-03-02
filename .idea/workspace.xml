@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37240612-3f87-40b9-9295-06408a6cf919" name="Changes" comment="">
+    <list default="true" id="37240612-3f87-40b9-9295-06408a6cf919" name="Changes" comment="Заверстал главную страницу сайта, только статика">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -76,11 +76,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740651533928</updated>
-      <workItem from="1740651534955" duration="35762000" />
+      <workItem from="1740651534955" duration="36173000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Заверстал главную страницу сайта, только статика" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заверстал главную страницу сайта, только статика" />
   </component>
 </project>
